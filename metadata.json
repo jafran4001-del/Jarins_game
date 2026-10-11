@@ -1,0 +1,6 @@
+{
+  "name": "Talking Tom Gold Run",
+  "description": "An action-packed 3D endless runner where Tom chases Roy Rakoon to recover his stolen gold, upgrade dream houses, unlock characters, and soar with power-ups!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
